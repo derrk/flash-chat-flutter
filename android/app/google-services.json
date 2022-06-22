@@ -31,10 +31,10 @@
               "client_type": 3
             },
             {
-              "client_id": "953045886148-jnu3f3ip229es0f168428uumd0kr5fra.apps.googleusercontent.com",
+              "client_id": "953045886148-7l1sj84s1b3ajlj9mo2rg8ih31ipi1lm.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.DerrikPollock.flashChat"
+                "bundle_id": "co.appbrewery.flashChat"
               }
             }
           ]
